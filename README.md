@@ -1,7 +1,7 @@
 # DeepSleep-R1
 
 <div align="center">
-  <img src="https://github.com/DeepSleep-ai/DeepSleep-V2/blob/main/figures/logo.svg?raw=true" width="60%" alt="DeepSleep-R1" />
+  <img src="https://raw.githubusercontent.com/lvtiansama/DeepSleep-R1/refs/heads/main/img/logo.png" width="60%" alt="DeepSleep-R1" />
 </div>
 <hr>
 
